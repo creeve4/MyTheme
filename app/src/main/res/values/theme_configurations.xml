@@ -1,7 +1,7 @@
 <resources>
     <!-- Theme name and author name -->
-    <string name="ThemeName">Substratum Template</string>
-    <string name="ThemeAuthor">Projekt Development</string>
+    <string name="ThemeName">My Theme</string>
+    <string name="ThemeAuthor">Me</string>
     <!-- Your email for bug reports (DEFAULT: empty) -->
     <!--suppress CheckTagEmptyBody -->
     <string name="ThemeAuthorEmail"></string>
