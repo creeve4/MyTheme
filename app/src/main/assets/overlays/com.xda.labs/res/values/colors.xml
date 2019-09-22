@@ -10,7 +10,7 @@
     <color name="background_dark">@*android:color/background_dark</color>
     <color name="background_floating_material_dark">@*android:color/background_floating_material_dark</color>
     <color name="background_material_dark">@*android:color/background_dark</color>
-    <color name="background_quoted_dark">@*android:color/button_material_dark</color>
+    <color name="background_quoted_dark">#ff333333</color>
     <color name="blue">#ff1976d2</color>
     <color name="button_dark">@*android:color/button_material_dark</color>
     <color name="button_material_dark">@*android:color/button_material_dark</color>
