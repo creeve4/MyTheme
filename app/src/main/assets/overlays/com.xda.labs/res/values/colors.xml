@@ -71,7 +71,7 @@
     <color name="md_material_blue_600">#ff1976d2</color>
     <color name="md_material_blue_800">#ff0d47a1</color>
     <color name="offwhite">@*android:color/background_dark</color>
-    <color name="placeholder_phone_tint">#ffffffff</color>
+    <color name="placeholder_phone_tint">#ff000000</color>
     <color name="primary">@*android:color/primary_material_dark</color>
     <color name="primary_bg">@*android:color/background_dark</color>
     <color name="primary_dark">@*android:color/primary_dark_material_dark</color>
