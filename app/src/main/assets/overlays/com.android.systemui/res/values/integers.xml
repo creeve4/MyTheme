@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <integer name="doze_pulse_duration_visible">10000</integer>
-    <integer name="doze_pulse_duration_out">2000</integer>
-</resources>
