@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ConversationCompose2oSendText">
+        <item name="android:textSize">@*com.google.android.apps.messaging:dimen/conversation_compose2o_send_text_size</item>
+        <item name="android:textColor">@*com.google.android.apps.messaging:color/compose_send_text_color_m2</item>
+        <item name="android:textColorHint">@*com.google.android.apps.messaging:color/compose_button_inactive_color</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:background">@null</item>
+        <item name="android:paddingTop">@*com.google.android.apps.messaging:dimen/compose_message_text_box_padding_top_bottom</item>
+        <item name="android:paddingBottom">@*com.google.android.apps.messaging:dimen/compose_message_text_box_padding_top_bottom</item>
+        <item name="android:scrollbars">vertical</item>
+        <item name="android:minHeight">@*com.google.android.apps.messaging:dimen/compose_message_min_touch_target_size</item>
+        <item name="android:maxLines">12</item>
+        <item name="android:scrollHorizontally">false</item>
+        <item name="android:singleLine">false</item>
+        <item name="android:inputType">textAutoCorrect|textCapSentences|textMultiLine|textShortMessage</item>
+        <item name="android:textCursorDrawable">@null</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:layout_marginStart">14.0dip</item>
+    </style>
+</resources>

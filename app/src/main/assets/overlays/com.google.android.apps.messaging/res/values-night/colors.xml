@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="compose_pill_background_m2">#ff313235</color>
+    <color name="compose_pill_default_background">#ff313235</color>
+    <color name="compose_pill_inactive_background">#ff313235</color>
+    <color name="compose_pill_stroke">#ff3c4043</color>
+</resources>

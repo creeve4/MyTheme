@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="message_bubble_color_incoming_dark_m2">#ff141417</color>
+    <color name="message_bubble_color_incoming_dark_m2_updated">#ff141417</color>
+    <color name="message_bubble_color_outgoing_rcs_dark_m2">#ff2e3e4d</color>
+    <color name="message_bubble_color_outgoing_xms_dark_m2">#ff313235</color>
+    <color name="message_text_color_outgoing_rcs_dark_m2">#ffe5e5e5</color>
+    <color name="message_text_color_outgoing_xms_dark_m2">#ffe5e5e5</color>
+</resources>
